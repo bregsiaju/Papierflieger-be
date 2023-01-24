@@ -16,7 +16,7 @@
     {
       "url": "https://papierflieger-api.herokuapp.com/",
       "description": "production (heroku)"
-    },
+    }
   ],
   "tags": [
     {
