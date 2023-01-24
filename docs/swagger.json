@@ -12,7 +12,11 @@
     {
       "url": "https://papierflieger-api.up.railway.app/",
       "description": "production"
-    }
+    },
+    {
+      "url": "https://papierflieger-api.herokuapp.com/",
+      "description": "production (heroku)"
+    },
   ],
   "tags": [
     {
